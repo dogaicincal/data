@@ -1849,7 +1849,8 @@
                 "project": [
                     "Doğa İçin Çal 4",
                     "Doğa İçin Çal 5",
-                    "Doğa İçin Çal 14"
+                    "Doğa İçin Çal 14",
+                    "Doğa İçin Çal 15"
                 ]
             },
             {
@@ -2467,7 +2468,8 @@
                 "project": [
                     "Doğa İçin Çal 4",
                     "Doğa İçin Çal 5",
-                    "Doğa İçin Çal 14"
+                    "Doğa İçin Çal 14",
+                    "Doğa İçin Çal 15"
                 ]
             },
             {
@@ -2897,7 +2899,8 @@
                 "country": "Türkiye",
                 "city": "İstanbul",
                 "project": [
-                    "Doğa İçin Çal 6"
+                    "Doğa İçin Çal 6",
+                    "Doğa İçin Çal 15"
                 ]
             },
             {
@@ -4005,7 +4008,8 @@
                 "country": "Türkiye",
                 "city": "Trabzon",
                 "project": [
-                    "Doğa İçin Çal 9"
+                    "Doğa İçin Çal 9",
+                    "Doğa İçin Çal 15"
                 ]
             },
             {
@@ -4386,7 +4390,8 @@
                 "country": "Türkiye",
                 "city": "Trabzon",
                 "project": [
-                    "Doğa İçin Çal 10"
+                    "Doğa İçin Çal 10",
+                    "Doğa İçin Çal 15"
                 ]
             },
             {
@@ -5452,7 +5457,8 @@
                 "country": "Türkiye",
                 "city": "Adana",
                 "project": [
-                    "Doğa İçin Çal 12"
+                    "Doğa İçin Çal 12",
+                    "Doğa İçin Çal 15"
                 ]
             },
             {
@@ -5694,7 +5700,8 @@
                 "country": "Türkiye",
                 "city": "Yalova",
                 "project": [
-                    "Doğa İçin Çal 13"
+                    "Doğa İçin Çal 13",
+                    "Doğa İçin Çal 15"
                 ]
             },
             {
@@ -5990,7 +5997,8 @@
                 "project": [
                     "Doğa İçin Çal 4",
                     "Doğa İçin Çal 5",
-                    "Doğa İçin Çal 14"
+                    "Doğa İçin Çal 14",
+                    "Doğa İçin Çal 15"
                 ]
             },
             {
@@ -6153,6 +6161,286 @@
                 "city": "İstanbul",
                 "project": [
                     "Doğa İçin Çal 14"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "dic15",
+        "name": "Doğa İçin Çal 15",
+        "song": [
+            "Karşıya Çifte Çamlar",
+            "Kızılcıklar Oldu Mu"
+        ],
+        "year": "2024",
+        "director": "Fırat Çavaş",
+        "video": {
+            "youtubeCode": "5zC6uZpSEi8",
+            "youtubeLink": "https://www.youtube.com/watch?v=5zC6uZpSEi8"
+        },
+        "artist": [
+            {
+                "name": "Ömer Göktepeliler",
+                "country": "Türkiye",
+                "city": "Bursa",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Zeynep Başkan",
+                "country": "Türkiye",
+                "city": "Trabzon",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Uğur Can Sekendur",
+                "country": "Türkiye",
+                "city": "Malatya",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Merve Yavuz",
+                "country": "Türkiye",
+                "city": "Trabzon",
+                "project": [
+                    "Doğa İçin Çal 10",
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Samet Can Tahincioğlu",
+                "country": "Türkiye",
+                "city": "Bitlis",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Alper Özcan",
+                "country": "Türkiye",
+                "city": "Gaziantep",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Tuğcan Altay",
+                "country": "Türkiye",
+                "city": "Rize",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Özgür Atanur",
+                "country": "Türkiye",
+                "city": "Adana",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Mert Kayıkçıoğlu",
+                "country": "Türkiye",
+                "city": "Ordu",
+                "project": [
+                    "Doğa İçin Çal 4",
+                    "Doğa İçin Çal 5",
+                    "Doğa İçin Çal 14",
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Ezgi Eyüboğlu",
+                "country": "Türkiye",
+                "city": "Trabzon",
+                "project": [
+                    "Doğa İçin Çal 9",
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Burcu Koşar",
+                "country": "Türkiye",
+                "city": "Giresun",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Onurcan Bora",
+                "country": "Türkiye",
+                "city": "Sivas",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Medine Kılıç",
+                "country": "Türkiye",
+                "city": "Malatya",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Ali Tetik",
+                "country": "Türkiye",
+                "city": "Giresun",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Cemil Can Çolak",
+                "country": "Türkiye",
+                "city": "Bursa",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Şükrü Tırkış",
+                "country": "Türkiye",
+                "city": "Çanakkale",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Melbourne",
+                "country": "Türkiye",
+                "city": "İstanbul",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Eren Çankaya",
+                "country": "Türkiye",
+                "city": "Nevşehir",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Oğuzhan Uğur",
+                "country": "Türkiye",
+                "city": "Ankara",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Elif Algül",
+                "country": "Türkiye",
+                "city": "Siirt",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Ceylin Selin Arslan",
+                "country": "Türkiye",
+                "city": "Amasya",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Mustafa İpekçioğlu",
+                "country": "Türkiye",
+                "city": "Adıyaman",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Nur Cırık",
+                "country": "Türkiye",
+                "city": "Mersin",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Orçun Sünear",
+                "country": "Türkiye",
+                "city": "İstanbul",
+                "project": [
+                    "Doğa İçin Çal 6",
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Hazal Çağlar",
+                "country": "Türkiye",
+                "city": "Erzincan",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Peri Nur Akkurt",
+                "country": "Türkiye",
+                "city": "Denizli",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Erva Sena Göksel",
+                "country": "Türkiye",
+                "city": "İstanbul",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Buğra Kutbay",
+                "country": "Türkiye",
+                "city": "Samsun",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Esma Kaya",
+                "country": "Türkiye",
+                "city": "Kars",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Fırat Sobutay",
+                "country": "Türkiye",
+                "city": "Adana",
+                "project": [
+                    "Doğa İçin Çal 12",
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Tuğçe Türker",
+                "country": "Türkiye",
+                "city": "Ankara",
+                "project": [
+                    "Doğa İçin Çal 15"
+                ]
+            },
+            {
+                "name": "Alkan Dalgakıran",
+                "country": "Türkiye",
+                "city": "Yalova",
+                "project": [
+                    "Doğa İçin Çal 13",
+                    "Doğa İçin Çal 15"
                 ]
             }
         ]
