@@ -227,7 +227,8 @@
                 "project": [
                     "Doğa İçin Çal 1",
                     "Doğa İçin Çal 2",
-                    "Doğa İçin Çal 9"
+                    "Doğa İçin Çal 9",
+                    "Doğa İçin Çal 16"
                 ]
             },
             {
@@ -760,7 +761,8 @@
                 "project": [
                     "Doğa İçin Çal 1",
                     "Doğa İçin Çal 2",
-                    "Doğa İçin Çal 9"
+                    "Doğa İçin Çal 9",
+                    "Doğa İçin Çal 16"
                 ]
             },
             {
@@ -3992,7 +3994,8 @@
                 "project": [
                     "Doğa İçin Çal 1",
                     "Doğa İçin Çal 2",
-                    "Doğa İçin Çal 9"
+                    "Doğa İçin Çal 9",
+                    "Doğa İçin Çal 16"
                 ]
             },
             {
@@ -5208,7 +5211,8 @@
                 "country": "Türkiye",
                 "city": "Ağrı",
                 "project": [
-                    "Doğa İçin Çal 12"
+                    "Doğa İçin Çal 12",
+                    "Doğa İçin Çal 16"
                 ]
             },
             {
@@ -6349,7 +6353,8 @@
                 "country": "Türkiye",
                 "city": "Amasya",
                 "project": [
-                    "Doğa İçin Çal 15"
+                    "Doğa İçin Çal 15",
+                    "Doğa İçin Çal 16"
                 ]
             },
             {
@@ -6441,6 +6446,186 @@
                 "project": [
                     "Doğa İçin Çal 13",
                     "Doğa İçin Çal 15"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "dic16",
+        "name": "Doğa İçin Çal 16",
+        "song": [
+            "Drama Köprüsü"
+        ],
+        "year": "2025",
+        "director": "Fırat Çavaş",
+        "video": {
+            "youtubeCode": "Kk8p0uUXYUg",
+            "youtubeLink": "https://www.youtube.com/watch?v=Kk8p0uUXYUg"
+        },
+        "artist": [
+            {
+                "name": "Tuğba Nur Kaya",
+                "country": "Türkiye",
+                "city": "Van",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Yaşar",
+                "country": "Türkiye",
+                "city": "Adana",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Ahmet Yavuz Yerebakan",
+                "country": "Türkiye",
+                "city": "Mersin",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Onur Tükel",
+                "country": "Türkiye",
+                "city": "Ağrı",
+                "project": [
+                    "Doğa İçin Çal 12",
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Onur Şahin Cırık",
+                "country": "Türkiye",
+                "city": "Mersin",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Tuğçe Stawiarz",
+                "country": "Türkiye",
+                "city": "Tunceli",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Ersin Kök",
+                "country": "Türkiye",
+                "city": "Hatay",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Ayşegül Tok",
+                "country": "Türkiye",
+                "city": "Mersin",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Can Kamerli",
+                "country": "Türkiye",
+                "city": "İzmir",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Taşkın Tanrıverdio",
+                "country": "Türkiye",
+                "city": "Erzincan",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Farid Abdullayev",
+                "country": "Azerbaycan",
+                "city": "Bakü",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Gaye Aksu",
+                "country": "Türkiye",
+                "city": "Ordu",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Bünyas Herek",
+                "country": "Türkiye",
+                "city": "Adana",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Seyfi Uraş",
+                "country": "Türkiye",
+                "city": "İstanbul",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Ceren Sagu",
+                "country": "Türkiye",
+                "city": "İzmir",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Göksel Korkmaz",
+                "country": "Türkiye",
+                "city": "Sivas",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Ceylin Selin Arslan",
+                "country": "Türkiye",
+                "city": "Amasya",
+                "project": [
+                    "Doğa İçin Çal 15",
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Serkan Çevik",
+                "country": "Türkiye",
+                "city": "Tokat",
+                "project": [
+                    "Doğa İçin Çal 1",
+                    "Doğa İçin Çal 2",
+                    "Doğa İçin Çal 9",
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Aziz Kiraz",
+                "country": "Türkiye",
+                "city": "Erzurum",
+                "project": [
+                    "Doğa İçin Çal 16"
+                ]
+            },
+            {
+                "name": "Ada Canata",
+                "country": "Türkiye",
+                "city": "Eskişehir",
+                "project": [
+                    "Doğa İçin Çal 16"
                 ]
             }
         ]
